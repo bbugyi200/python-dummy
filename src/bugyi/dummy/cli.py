@@ -10,12 +10,3 @@ def main(argv: Sequence[str] = None) -> int:
         argv = sys.argv
 
     return 0
-
-
-def foobar(x: int) -> int:
-    """Foobar.
-
-    Args:
-        x: Some variable...
-    """
-    return x * 2
