@@ -12,10 +12,12 @@
 
 tools / frameworks used by test suite:
 
-[![Framework: pytest](https://img.shields.io/badge/framework-pytest-28ce4a)](https://github.com/pytest-dev/pytest)
-[![Framework: doctest](https://img.shields.io/badge/framework-doctest-28ce4a)](https://docs.python.org/3/library/doctest.html)
-[![Runner: tox](https://img.shields.io/badge/runner-tox-28ce4a)](https://github.com/tox-dev/tox)
-[![Types: typeguard](https://img.shields.io/badge/types-typeguard-28ce4a)](https://github.com/agronholm/typeguard)
+[![Framework: pytest](https://img.shields.io/badge/framework-pytest-a76465)](https://github.com/pytest-dev/pytest)
+[![Framework: doctest](https://img.shields.io/badge/framework-doctest-64c44e)](https://docs.python.org/3/library/doctest.html)
+[![Runner: tox](https://img.shields.io/badge/runner-tox-ffffff)](https://github.com/tox-dev/tox)
+[![Types: typeguard](https://img.shields.io/badge/types-typeguard-273c08)](https://github.com/agronholm/typeguard)
+[![Mocks: pytest-mock](https://img.shields.io/static/v1?label=mocks&message=pytest-mock&color=9c70d7)](https://github.com/pytest-dev/pytest-mock)
+[![Snapshots: syrupy](https://img.shields.io/static/v1?label=snapshots&message=syrupy&color=436fa8)](https://github.com/tophat/syrupy)
 
 linters used by CI:
 
@@ -29,7 +31,7 @@ linters used by CI:
 
 ## Useful Links
 
-* [API Reference][3]: A development reference of the API exposed by this
+* [API Reference][3]: A developer's reference of the API exposed by this
   project.
 * [cc-python][4]: The [cookiecutter][5] that was used to generate this project.
   Furthermore, changes made to this cookiecutter are periodically synced with
