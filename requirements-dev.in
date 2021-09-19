@@ -1,0 +1,26 @@
+### Tests
+pytest
+pytest-cov
+tox
+tox-pyenv
+typeguard
+
+### Lint
+black
+flake8
+isort
+mypy
+pydocstyle[toml]
+pylint
+
+### Docs
+sphinx
+sphinx-rtd-theme
+sphinx-autodoc-typehints
+recommonmark
+
+### Misc
+bump2version
+cruft[pyproject]
+pip-tools
+setuptools_scm
