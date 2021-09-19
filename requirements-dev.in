@@ -1,0 +1,27 @@
+### Tests
+pytest
+pytest-cov
+tox
+tox-pyenv
+typeguard
+
+### Lint
+black
+flake8
+isort
+mypy
+pydocstyle[toml]
+pylint
+
+### Docs
+docutils==0.16  # HACK: see https://stackoverflow.com/questions/67542699/readthedocs-sphinx-not-rendering-bullet-list-from-rst-file
+sphinx
+sphinx-theme
+sphinx-autodoc-typehints
+recommonmark
+
+### Misc
+bump2version
+cruft[pyproject]
+pip-tools
+setuptools_scm
