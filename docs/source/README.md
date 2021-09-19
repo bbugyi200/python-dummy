@@ -27,11 +27,11 @@ linters used by CI:
 [![Imports: isort](https://img.shields.io/badge/imports-isort-ef8336)](https://github.com/PyCQA/isort)
 
 
-## Project Links
+## Useful Links
 
 * [API Reference][3]: A development reference of the API exposed by this
   project.
-* [cc-python][4]: This [cookiecutter][5] was used to generate this project.
+* [cc-python][4]: The [cookiecutter][5] that was used to generate this project.
   Furthermore, changes made to this cookiecutter are periodically synced with
   this project.
 * [CHANGELOG.md][2]: We use this file to document all notable changes made to
