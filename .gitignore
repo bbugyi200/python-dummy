@@ -115,7 +115,7 @@ venv.bak/
 
 # rst files
 docs/source/modules.rst
-docs/source/bugyi.dummy*.rst
+docs/source/dummy*.rst
 
 # Project docker switch file
 .lcldev
