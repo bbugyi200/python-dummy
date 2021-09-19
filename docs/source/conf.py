@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath("../../src/bugyi/"))
 
 # -- Project information -----------------------------------------------------
 
-project = "dummy"
+project = "bugyi.dummy"
 
 
 # -- General configuration ---------------------------------------------------
