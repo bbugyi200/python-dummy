@@ -20,7 +20,7 @@ import sphinx_theme  # noqa
 
 # -- Project information -----------------------------------------------------
 
-project = "bugyi.dummy"
+project = "dummy"
 
 
 # -- General configuration ---------------------------------------------------
