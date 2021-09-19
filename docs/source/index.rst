@@ -10,11 +10,16 @@ Dummy python project used to test the cc-python cookiecutter.
    :caption: Table of Contents
 
     API Reference <modules>
+    CHANGELOG <CHANGELOG.md>
+    CODE_OF_CONDUCT <CODE_OF_CONDUCT.md>
+    CONTRIBUTING <CONTRIBUTING.md>
+    README <README.md>
 
 Project Links
 =============
 
-- `github:bbugyi200/python-dummy <https://github.com/bbugyi200/python-dummy>`_
+* `github:bbugyi200/python-dummy <https://github.com/bbugyi200/python-dummy>`_: This project's source code is hosted on GitHub.
+
 
 Indices and Tables
 ==================
