@@ -15,9 +15,6 @@ import sys
 
 sys.path.insert(0, os.path.abspath("../../src/"))
 sys.path.insert(0, os.path.abspath("../../src/bugyi/"))
-sys.path.insert(0, os.path.abspath("../../src/bugyi/dummy/"))
-
-import sphinx_theme  # noqa
 
 # -- Project information -----------------------------------------------------
 
@@ -67,5 +64,4 @@ typehints_fully_qualified = False
 # so a file named "default.css" will overwrite the builtin "default.css".
 
 # -- Sphinx themes -----------------------------------------------------------
-html_theme = "neo_rtd_theme"
-html_theme_path = [sphinx_theme.get_html_theme_path()]
+html_theme = "sphinx_rtd_theme"
