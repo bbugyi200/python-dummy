@@ -35,8 +35,6 @@ click==7.1.2
     #   cruft
     #   pip-tools
     #   typer
-commonmark==0.9.1
-    # via recommonmark
 cookiecutter==1.7.3
     # via cruft
 coverage==5.5
@@ -47,7 +45,7 @@ distlib==0.3.2
     # via virtualenv
 docutils==0.17.1
     # via
-    #   recommonmark
+    #   m2r2
     #   sphinx
     #   sphinx-rtd-theme
 filelock==3.0.12
@@ -79,12 +77,16 @@ jinja2-time==0.2.0
     # via cookiecutter
 lazy-object-proxy==1.6.0
     # via astroid
+m2r2==0.3.1
+    # via -r requirements-dev.in
 markupsafe==2.0.1
     # via jinja2
 mccabe==0.6.1
     # via
     #   flake8
     #   pylint
+mistune==0.8.4
+    # via m2r2
 mypy==0.910
     # via -r requirements-dev.in
 mypy-extensions==0.4.3
@@ -142,8 +144,6 @@ python-slugify==5.0.2
     # via cookiecutter
 pytz==2021.1
     # via babel
-recommonmark==0.7.1
-    # via -r requirements-dev.in
 regex==2021.8.28
     # via black
 requests==2.26.0
@@ -167,7 +167,6 @@ snowballstemmer==2.1.0
 sphinx==4.2.0
     # via
     #   -r requirements-dev.in
-    #   recommonmark
     #   sphinx-autodoc-typehints
     #   sphinx-rtd-theme
 sphinx-autodoc-typehints==1.12.0
