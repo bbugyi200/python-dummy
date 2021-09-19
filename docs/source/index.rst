@@ -16,7 +16,7 @@ Project Links
 
 - `github:bbugyi200/python-dummy <https://github.com/bbugyi200/python-dummy>`_
 
-Indices and tables
+Indices and Tables
 ==================
 
 * :ref:`genindex`
