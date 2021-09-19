@@ -45,9 +45,8 @@ cruft[pyproject]==2.9.0
     # via -r requirements-dev.in
 distlib==0.3.2
     # via virtualenv
-docutils==0.16
+docutils==0.17.1
     # via
-    #   -r requirements-dev.in
     #   recommonmark
     #   sphinx
     #   sphinx-rtd-theme
