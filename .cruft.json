@@ -1,9 +1,11 @@
 {
   "template": "https://github.com/bbugyi200/cc-python",
-  "commit": "0a020b4659943fe7ed18a9805e590774502d84f9",
+  "commit": "d8a271b3b4568abda2ddd794b0c250faf0278dc5",
   "checkout": null,
   "context": {
     "cookiecutter": {
+      "author": "Bryan M Bugyi",
+      "email": "bryanbugyi34@gmail.com",
       "github_username": "bbugyi200",
       "git_org_name": "bbugyi200",
       "git_repo_name": "python-dummy",
