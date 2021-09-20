@@ -59,6 +59,6 @@ setup(
     test_suite="tests",
     tests_require=tests_require(),
     url="https://github.com/bbugyi200/python-dummy",
-    use_scm_version={"fallback_version": "0.3.2"},
+    use_scm_version={"fallback_version": "0.3.3"},
     zip_safe=False,
 )
