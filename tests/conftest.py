@@ -3,7 +3,6 @@
 https://docs.pytest.org/en/6.2.x/fixture.html#conftest-py-sharing-fixtures-across-multiple-files
 """
 
-
 from _pytest.config import Config
 from typeguard.importhook import install_import_hook
 
