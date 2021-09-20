@@ -9,10 +9,14 @@ dynamic status badges:
 [![CI Workflow](https://github.com/bbugyi200/python-dummy/actions/workflows/ci.yml/badge.svg)](https://github.com/bbugyi200/python-dummy/actions/workflows/ci.yml)
 [![Coverage](https://codecov.io/gh/bbugyi200/python-dummy/branch/master/graph/badge.svg)](https://codecov.io/gh/bbugyi200/python-dummy)
 [![Documentation Status](https://readthedocs.org/projects/python-dummy/badge/?version=latest)](https://python-dummy.readthedocs.io/en/latest/?badge=latest)
+[![Package Health](https://snyk.io/advisor/python/bugyi.dummy/badge.svg)](https://snyk.io/advisor/python/bugyi.dummy)
+
+version badges:
+
 [![Project Version](https://img.shields.io/pypi/v/bugyi.dummy)](https://pypi.org/project/bugyi.dummy/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/bugyi.dummy)](https://pypi.org/project/bugyi.dummy/)
-[![cc-python Version](https://img.shields.io/static/v1?label=cc-python&message=2021.09.19-1&color=b4b400)](https://github.com/bbugyi200/cc-python)
-[![Package Health](https://snyk.io/advisor/python/bugyi.dummy/badge.svg)](https://snyk.io/advisor/python/bugyi.dummy)
+[![Cookiecutter: cc-python](https://img.shields.io/static/v1?label=cookiecutter&message=cc-python:2021.09.19-1&color=b4b400)](https://github.com/bbugyi200/cc-python)
+[![Docker: bbugyi/python](https://img.shields.io/static/v1?label=docker&message=bbugyi%2Fpython:2021.09.16&color=8ec4ad)](https://hub.docker.com/layers/167607937/bbugyi/python/2021.09.16/images/sha256-f058f973afafe78d02a396737cf9ede564e2309f5b9fa94bbaaf024f60a96645?context=repo)
 
 tools / frameworks used by test suite:
 
