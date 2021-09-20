@@ -53,6 +53,7 @@ tools / frameworks used to render documentation:
   interested in contributing to this project.
 * [Documentation][1]: This project's documentation is hosted on
   [readthedocs.io][6].
+* [github:bbugyi200/python-dummy][8]: This project’s source code is hosted on GitHub.
 
 
 ## Generic [cc-python](https://github.com/bbugyi200/cc-python) Documentation 📄
@@ -162,3 +163,4 @@ This project is enabled with `cruft` to be able to update the template with any 
 [5]: https://github.com/cookiecutter/cookiecutter
 [6]: https://docs.readthedocs.io/en/stable/
 [7]: https://github.com/bbugyi200/python-dummy/blob/master/CONTRIBUTING.md
+[8]: https://github.com/bbugyi200/python-dummy
