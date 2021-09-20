@@ -2,6 +2,10 @@
 
 **Dummy python project used to test the cc-python cookiecutter.**
 
+## Badges 📛
+
+dynamic status badges:
+
 [![CI Workflow](https://github.com/bbugyi200/python-dummy/actions/workflows/ci.yml/badge.svg)](https://github.com/bbugyi200/python-dummy/actions/workflows/ci.yml)
 [![Coverage](https://codecov.io/gh/bbugyi200/python-dummy/branch/master/graph/badge.svg)](https://codecov.io/gh/bbugyi200/python-dummy)
 [![Documentation Status](https://readthedocs.org/projects/python-dummy/badge/?version=latest)](https://python-dummy.readthedocs.io/en/latest/?badge=latest)
