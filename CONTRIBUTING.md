@@ -2,7 +2,7 @@
 
 ## How to submit feedback?
 
-The best way to send feedback is to [file an issue](https://github.com/bbugyi200/python-dummy/issues).
+The best way to send feedback is to [file an issue][1].
 
 If you are reporting a bug, please include:
 
@@ -16,3 +16,6 @@ If you are proposing a feature:
 * Keep the scope as narrow as possible, to make it easier to implement.
 * Remember that this is a volunteer-driven project, and that contributions
   are welcome :).
+
+
+[1]: https://github.com/bbugyi200/python-dummy/issues/new/choose
