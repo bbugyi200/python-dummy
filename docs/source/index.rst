@@ -10,9 +10,9 @@ Dummy python project used to test the cc-python cookiecutter.
    :caption: Table of Contents
 
     API Reference <modules>
-    CHANGELOG <CHANGELOG.md>
-    CONTRIBUTING <CONTRIBUTING.md>
-    README <README.md>
+    CHANGELOG <changelog>
+    CONTRIBUTING <contributing>
+    README <readme>
 
 
 Indices and Tables
