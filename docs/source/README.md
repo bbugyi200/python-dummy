@@ -22,7 +22,7 @@ tools / frameworks used by test suite (i.e. used by `make test`):
 
 [![Framework: pytest](https://img.shields.io/badge/framework-pytest-a76465)](https://github.com/pytest-dev/pytest)
 [![Framework: doctest](https://img.shields.io/badge/framework-doctest-66a6f6)](https://docs.python.org/3/library/doctest.html)
-[![Runner: tox](https://img.shields.io/badge/runner-tox-f5f5f5)](https://github.com/tox-dev/tox)
+[![Runner: tox](https://img.shields.io/badge/runner-tox-a6a6a6)](https://github.com/tox-dev/tox)
 [![Types: typeguard](https://img.shields.io/badge/types-typeguard-3a7163)](https://github.com/agronholm/typeguard)
 [![Mocks: pytest-mock](https://img.shields.io/static/v1?label=mocks&message=pytest-mock&color=9c70d7)](https://github.com/pytest-dev/pytest-mock)
 [![Snapshots: syrupy](https://img.shields.io/static/v1?label=snapshots&message=syrupy&color=436fa8)](https://github.com/tophat/syrupy)
@@ -39,7 +39,7 @@ linters used to maintain code quality (i.e. used by `make lint`):
 tools / frameworks used to render documentation (i.e used by `make build-docs`):
 
 [![Rendered By: sphinx](https://img.shields.io/badge/rendered%20by-sphinx-9cc676)](https://github.com/sphinx-doc/sphinx)
-[![Hosted On: readthedocs](https://img.shields.io/badge/hosted%20on-readthedocs-e08839)](https://docs.readthedocs.io/en/stable/)
+[![Hosted On: ReadTheDocs](https://img.shields.io/badge/hosted%20on-ReadTheDocs-e08839)](https://docs.readthedocs.io/en/stable/)
 [![Types: sphinx-autodoc-typehints](https://img.shields.io/static/v1?label=API&message=sphinx-autodoc-typehints&color=9c70d7)](https://github.com/agronholm/sphinx-autodoc-typehints)
 [![Markdown: m2r2](https://img.shields.io/badge/markdown-m2r2-8e1e3d)](https://github.com/CrossNox/m2r2)
 

@@ -1,3 +1,4 @@
+import glob
 from pathlib import Path
 from typing import Iterator, List
 
@@ -49,6 +50,7 @@ setup(
             "bugyi.dummy = bugyi.dummy.cli:main",
         ]
     },
+    scripts=glob.glob("scripts/*"),
     license="MIT license",
     long_description=long_description(),
     long_description_content_type="text/markdown",
