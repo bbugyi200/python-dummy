@@ -45,7 +45,7 @@ coverage==5.5
     # via pytest-cov
 cruft[pyproject]==2.9.0
     # via -r requirements-dev.in
-distlib==0.3.2
+distlib==0.3.3
     # via virtualenv
 docutils==0.17.1
     # via
