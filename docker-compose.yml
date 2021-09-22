@@ -7,13 +7,7 @@ services:
       dockerfile: Dockerfile
     volumes:
       - .:/bugyi/dummy:delegated
-      - venv:/bugyi/dummy/.venv
-      - docker-python-cache:/root/.cache/
     working_dir: /bugyi/dummy
     environment:
       - BETTER_EXCEPTIONS
       - CC_REPO_URL
-volumes:
-  docker-python-cache:
-    external: true
-  venv:
