@@ -182,9 +182,10 @@ git push
 git push --tags
 ```
 
-A new version of `bugyi.dummy` will then deploy to PyPI if
-tests pass.
+A new version of `bugyi.dummy` will then deploy to
+[PyPI][3] if tests pass.
 
 
 [1]: https://github.com/bbugyi200/python-dummy/issues/new/choose
 [2]: https://github.com/c4urself/bump2version
+[3]: https://pypi.org/project/bugyi.dummy
