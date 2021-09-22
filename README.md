@@ -51,6 +51,37 @@ miscellaneous tools used to maintain this project:
 [![Versioning: setuptools_scm](https://img.shields.io/static/v1?label=versioning&message=setuptools-scm&color=f61a61)](https://github.com/pypa/setuptools_scm)
 
 
+## Installation
+
+### Using `pipx` to Install (preferred)
+
+This package _could_ be installed using pip like any other Python package (in
+fact, see the section below this one for instructions). Given that we only need
+this package's entry points, however, we recommend that [pipx][11] be used
+instead:
+
+```shell
+# install and setup pipx
+python3 -m pip install --user pipx
+python3 -m pipx ensurepath
+
+# install bugyi.dummy
+pipx install bugyi.dummy
+```
+
+### Using `pip` to Install
+
+To install bugyi.dummy using [pip][9], run the following
+commands in your terminal:
+
+``` shell
+python3 -m pip install --user bugyi.dummy  # install bugyi.dummy
+```
+
+If you don't have pip installed, this [Python installation guide][10] can guide
+you through the process.
+
+
 ## Useful Links 🔗
 
 * [API Reference][3]: A developer's reference of the API exposed by this
@@ -75,3 +106,6 @@ miscellaneous tools used to maintain this project:
 [6]: https://docs.readthedocs.io/en/stable/
 [7]: https://github.com/bbugyi200/python-dummy/blob/master/CONTRIBUTING.md
 [8]: https://github.com/bbugyi200/python-dummy
+[9]: https://pip.pypa.io
+[10]: http://docs.python-guide.org/en/latest/starting/installation/
+[11]: https://github.com/pypa/pipx
