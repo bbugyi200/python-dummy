@@ -48,7 +48,7 @@ jobs:
 
       - name: Run linters.
         run: |
-          docker volum rm python-dummy_venv
+          docker volume rm python-dummy_venv
           make lint
   check_cc_and_requirements:
     runs-on: [ubuntu-latest]
