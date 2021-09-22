@@ -107,7 +107,7 @@ pathspec==0.9.0
     # via black
 pep517==0.11.0
     # via pip-tools
-pip-tools==6.2.0
+pip-tools==6.3.0
     # via -r requirements-dev.in
 platformdirs==2.3.0
     # via
@@ -240,7 +240,7 @@ wrapt==1.12.1
 # The following packages are considered to be unsafe in a requirements file:
 pip==21.2.4
     # via pip-tools
-setuptools==58.0.4
+setuptools==58.1.0
     # via
     #   astroid
     #   pip-tools
