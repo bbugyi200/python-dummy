@@ -71,7 +71,7 @@ pipx install bugyi.dummy
 
 ### Using `pip` to Install
 
-To install bugyi.dummy using [pip][9], run the following
+To install `bugyi.dummy` using [pip][9], run the following
 commands in your terminal:
 
 ``` shell
