@@ -186,7 +186,7 @@ git push --tags
 ```
 
 A new version of `bugyi.dummy` will then deploy to
-PyPI if tests pass.
+PyPI if all CI checks pass.
 
 
 [1]: https://github.com/bbugyi200/python-dummy/issues/new/choose
