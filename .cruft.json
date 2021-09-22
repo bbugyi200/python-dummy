@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/bbugyi200/cc-python",
-  "commit": "6405fbeb1dde6f9cc9f7d6352cafde6cd4194922",
+  "commit": "ced5be166b45c30d38e806ec05a7db9501da9a69",
   "checkout": null,
   "context": {
     "cookiecutter": {
