@@ -94,8 +94,6 @@ you through the process.
   interested in contributing to this project.
 * [Documentation][1]: This project's documentation is hosted on
   [readthedocs.io][6].
-* [gh:bbugyi200/python-dummy][8]:
-  This project’s source code is hosted on GitHub.
 
 
 [1]: https://python-dummy.readthedocs.io/en/latest
