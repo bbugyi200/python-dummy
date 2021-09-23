@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/bbugyi200/cc-python",
-  "commit": "4545b420ed9479f24ff8f5859cc91d72d0b294a9",
-  "checkout": null,
+  "commit": "bd84420698313e55ce5adc2ff55d66771cffbe4a",
+  "checkout": "stable",
   "context": {
     "cookiecutter": {
       "author": "Bryan M Bugyi",
